@@ -1,8 +1,9 @@
-#  Network 
-
-https://www.youtube.com/watch?v=9pbzLcN9QGw
-
 # NetConf
+
+* https://www.youtube.com/watch?v=9pbzLcN9QGw - Carl Moberg 
+
+## Reason
+"The dominating market leader for configuration managment in the world is the swivel chair" 
 
 ## Design
 * People spend lots of time in CLI
